@@ -283,6 +283,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 684MMQ8PLC;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				MARKETING_VERSION = 1.1;
@@ -297,6 +298,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 684MMQ8PLC;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				MARKETING_VERSION = 1.1;
