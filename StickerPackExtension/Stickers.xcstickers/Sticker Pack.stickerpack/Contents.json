@@ -1,9 +1,47 @@
 {
+  "stickers" : [
+    {
+      "filename" : "ha.sticker"
+    },
+    {
+      "filename" : "ha1.sticker"
+    },
+    {
+      "filename" : "ha2.sticker"
+    },
+    {
+      "filename" : "ha3.sticker"
+    },
+    {
+      "filename" : "ha4.sticker"
+    },
+    {
+      "filename" : "ha5.sticker"
+    },
+    {
+      "filename" : "ha6.sticker"
+    },
+    {
+      "filename" : "ha7.sticker"
+    },
+    {
+      "filename" : "ha8.sticker"
+    },
+    {
+      "filename" : "ha9.sticker"
+    },
+    {
+      "filename" : "ha10.sticker"
+    },
+    {
+      "filename" : "url.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "small"
   }
 }
